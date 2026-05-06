@@ -5,6 +5,7 @@ seoDescription: "A deep dive into the causes of ANR, the impact of Ad SDKs on ma
 datePublished: 2026-05-05T13:32:00.000Z
 cuid: cmoso3vhx000021cdcvsk0uns
 slug: defeating-anrs-the-war-against-latency-in-a-world-of-ads-and-low-end-hardware
+canonical: https://medium.com/@itdragonlxl/defeating-anrs-the-war-against-latency-in-a-world-of-ads-and-low-end-hardware-21f24d9a6f33
 tags: performance, androiddev, indie-maker, jetpack-compose, anr
 
 ---

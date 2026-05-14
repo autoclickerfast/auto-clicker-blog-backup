@@ -5,6 +5,7 @@ seoDescription: "Deep dive into the real-world experience of upgrading from Kotl
 datePublished: 2026-05-13T13:30:00.000Z
 cuid: cmp43kfpg000124eihpxf0q6o
 slug: the-performance-leap-upgrading-to-kotlin-2-3-and-compose-bom-2026
+canonical: https://medium.com/@itdragonlxl/the-performance-leap-upgrading-to-kotlin-2-3-and-compose-bom-2026-e35c625bb598
 tags: kotlin, jetpack-compose, android-performance, k2compiler
 
 ---

@@ -5,6 +5,7 @@ seoDescription: "AI code killed my Vitals. Why a 28-day average masks ANR spikes
 datePublished: 2026-05-20T13:08:00.000Z
 cuid: cmpe2urqp000024b360smdiyr
 slug: the-28-day-illusion-why-my-ai-optimized-update-was-a-silent-killer
+canonical: https://medium.com/@itdragonlxl/the-28-day-illusion-why-my-ai-optimized-update-was-a-silent-killer-5f657007d3bb
 tags: software-engineering, indiedev, ai-programming, android-performance, androidvitals
 
 ---
